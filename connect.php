@@ -1,12 +1,12 @@
 <?php
 
-$db_name = "test";
+$db_name = "id3973330_lolicon";
 
-$db_username = "root";
+$db_username = "id3973330_root1234";
 
-$db_password = "root";
+$db_password = "root1234";
 
-$db_host = "localhost";
+$db_host = "files.000webhost.com";
 
 
 mysql_connect($db_host, $db_username, $db_password, $db_name);
